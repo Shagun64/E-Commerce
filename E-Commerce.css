@@ -108,6 +108,10 @@ padding-right: 25px;
     margin-bottom: 50px;
     transition:  0.5s;
 }
+.col-4 a{
+    text-decoration: none;
+    color: #555;
+}
 .col-4 img {
     width: 100%;
 }
